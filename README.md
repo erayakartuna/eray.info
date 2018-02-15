@@ -1,2 +1,2 @@
 # eray.info
-Eray.info web sitesi dosyaları
+http://eray.info web sitesi dosyaları
